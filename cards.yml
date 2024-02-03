@@ -6,6 +6,8 @@ cards:
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@akbank.com"
+    escalateTo: "Akhil - CEO"
+    escalateEmail: "{cipher}6c4817453666fd7d8c31948eada9e5b1c0accd46b28db9d90ca1601283d1f38ea3d75345d519ea0d3c7ebcc5408f0538"
   onCallSupport:
     - (412) 419-3491
     - (915) 382-1932
