@@ -6,6 +6,8 @@ accounts:
   contactDetails:
     name: "Akhil - Developer"
     email: "akhil@eazybank.com"
+    escalateTo: "Akhil - CEO"
+    escalateEmail: "{cipher}6c4817453666fd7d8c31948eada9e5b1c0accd46b28db9d90ca1601283d1f38ea3d75345d519ea0d3c7ebcc5408f0538"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
